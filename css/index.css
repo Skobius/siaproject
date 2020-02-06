@@ -3647,7 +3647,7 @@ input[type="button"].btn-block {
   position: relative;
   border: 3px solid #31c5ff;
   border: 0.1875rem solid #31c5ff;
-  border-radius: 0 2.375rem 2.375rem 2.375rem;
+  border-radius: 2.25rem 2.25rem 2.25rem;
   -webkit-box-shadow: 0 0.5625rem 3.125rem rgba(0, 0, 0, .1);
           box-shadow: 0 0.5625rem 3.125rem rgba(0, 0, 0, .1);
   padding: 40px 40px 20px 80px;
@@ -3839,7 +3839,7 @@ input[type="button"].btn-block {
     padding-top: 2.5rem;
     padding-bottom: 28px;
     padding-bottom: 1.75rem;
-    border-radius: 2.375rem;
+    border-radius: 2.25rem;
     -webkit-clip-path: polygon(8.5% 0, 100% 1%, 100% 100%, 0 100%, 0 28%);
             clip-path: polygon(8.5% 0, 100% 1%, 100% 100%, 0 100%, 0 28%);
     margin-left: 2px; }
